@@ -1,6 +1,5 @@
 ## 自用直播源
 
-***
 
 这里存放一些自用整理的直播源；
 
@@ -8,7 +7,6 @@
 
 ## APP使用推荐
 
-***
 
 电脑端：当然是用 **PotPlayer** ：https://potplayer.daum.net/
 
@@ -28,7 +26,6 @@ iOS端：[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141) ;  [APT
 
 ## 别人的直播源
 
-***
 
 1个8K直播源，19个4K直播源，包含SDR、HLG源：
 https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u 
