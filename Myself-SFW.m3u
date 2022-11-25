@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 ,五星体育(1)
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,五星体育(2)
+http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,五星体育(3)
+http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1 ,广东体育
+http://120.84.96.73:808/hls/22/index.m3u8
+#EXTINF:-1 ,CCTV5-高清(1)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 ,CCTV5-高清(2)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 ,CCTV5-高清(3)
+http://159.75.85.63:828/shijiebei/sjb.php?id=3007a
+#EXTINF:-1 ,CCTV5-高清((4)
+http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 ,CCTV5-高清((5)
+http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 ,咪咕体育-4K-HLG源
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1 ,CCTV16-4K-SDR源
+http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 ,CCTV16-4K-HLG源
+http://27.36.62.163:9090/live/4010.m3u8
+#EXTINF:-1 ,CCTV16-1080P-HLG源
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1 ,CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 ,CCTV16 回看
+http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 ,高分影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
+#EXTINF:-1 ,周润发影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
+#EXTINF:-1 ,周星驰影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
+#EXTINF:-1 ,张国荣影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
+#EXTINF:-1 ,黄金剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
+#EXTINF:-1 ,每日科幻电影
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
+#EXTINF:-1 ,套武侠剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
+#EXTINF:-1 ,湖南卫视
+http://39.135.138.60:18890/TVOD/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://39.135.138.60:18890/TVOD/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 ,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,香港衛視HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,鳳凰衛視資訊 (1080p)
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 ,耀才財經
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,耀才財經台2
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 ,香港开电视台HD（备用1）
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,港台电视RTHK31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 ,港台电视RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 ,I-FUN动漫台
+http://cloud-play.hhalloy.com/live/d9445086fd2dd474087674f638f2a8ed.m3u8
+#EXTINF:-1 ,kaixin动漫
+https://dlhdl-cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
+#EXTINF:-1 ,BTV纪实科教-8KSDR源
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+#EXTINF:-1 ,苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
