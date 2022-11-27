@@ -22,7 +22,7 @@ iOS端：[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141) ;  [APT
 
 蓝奏点击下载：https://wwu.lanzoue.com/iF9Os0gtwskb
 
-
+**IPTV Checker 2.5汉化版**： https://wwu.lanzoue.com/iwp250h0ht7g  密码:5h1z
 
 ​			
 ## 别人的直播源
